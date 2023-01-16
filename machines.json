@@ -1,0 +1,4 @@
+{"ip" : "192.168.43.240" , "SO" : "Linux", "name" : "wazuh"}
+{"ip" : "192.168.43.241" , "SO" : "Linux", "name" : "elastic"}
+{"ip" : "192.168.43.242" , "SO" : "Linux", "name" : "kibana"}
+{"ip" : "192.168.43.244" , "SO" : "Linux", "name" : "suricata"}

@@ -1,0 +1,229 @@
+sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.241 iptables -A INPUT -s 192.168.43.240 -j DROPsshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.242 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROPsshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROPsshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROPsshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROPsshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.244 iptables -A INPUT -s 192.168.43.252 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'sshpass -f password ssh -o StrictHostKeyChecking=no root@192.168.43.241 iptables -A INPUT -s 192.168.43.240 -j DROP; echo 1 > /proc/sys/vm/drop_caches && swapoff -a && swapon -a && printf '
+%s
+' 'Caché de RAM y Swap liberadas'

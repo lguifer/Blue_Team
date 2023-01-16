@@ -1,0 +1,85 @@
+<group name="local,">
+  <rule id="100002" level="5">
+  <if_sid>60103</if_sid>
+  <field name="win.system.eventId">^6416$</field>
+<!--  <field name="win.eventdata.deviceId">^STORAGE\\\\Volume\\\\_??_USBSTOR#Disk</field> -->
+  <field name="win.eventdata.deviceId">^USBSTOR\\\\Disk</field>
+  <options>no_full_log</options>
+  <description>AUTHORIZED USB Device inserted : Agent:$(win.system.computer) </description>
+ </rule>
+
+ <rule id="100003" level="10">
+ <if_sid>100002</if_sid>
+<!-- En esta versión de wazuh no funciona el decoder con eventos de windows eventchannel. Esto es porque una vez llega el evento al módulo analysisd, éste no es capaz de regresar y ser procesado como un json. -->
+ <!--<decoded_as>windows_custom</decoded_as> -->  
+   <options>no_full_log</options>
+    <list field="win.eventdata.deviceId" lookup="not_match_key">etc/lists/usb-devices</list>
+    <description>UNATHORIZED USB DEVICE INSERTED: AGENT:$(win.system.computer)</description>
+ </rule>
+
+ <rule id="100004" level="10">
+ <if_sid>86601</if_sid>
+   <options>no_full_log</options>
+    <field name="alert.signature">NMAP </field>
+    <description>NMAP detected from $(srcip) to $(dest_ip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule>
+  <rule id="100006" level="10">
+ <if_sid>86601</if_sid>
+   <options>no_full_log</options>
+    <field name="alert.signature">invalid ack</field>
+    <description>NMAP detected from $(srcip) to $(dest_ip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule> 
+ <rule id="100007" level="10">
+ <if_sid>86601</if_sid>
+   <options>no_full_log</options>
+    <field name="alert.signature">3way handshake</field>
+    <description>Denyal of Service (DOS) detected from $(dest_ip) to $(scrip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule>
+ <rule id="100008" level="10">
+ <if_sid>86601</if_sid>
+   <options>no_full_log</options>
+    <field name="alert.signature">SYNSTEALTH SCAN DETECTED</field>
+    <description>Denyal of Service (DOS) detected from $(dest_ip) to $(scrip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule>
+
+ <rule id="100005" level="10">
+ <if_sid>86601</if_sid>
+   <options>no_full_log</options>
+    <field name="alert.signature">ET SCAN</field>
+    <description>Scanning SSH detected from $(srcip) to $(dest_ip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule>
+ <!--<rule id="100006" level="10">
+ <if_sid>100004</if_sid>
+   <options>no_full_log</options>
+    <description>NMAP detecteeeeed from $(srcip) to $(dest_ip)</description>
+    <mitre>
+      <id>T1595</id>
+    </mitre>
+ </rule>-->
+
+  <rule id="100020" level="12">
+    <if_sid>86600</if_sid>
+    <field name="event_type">^alert$</field>
+    <match>ET DOS Inbound GoldenEye DoS attack</match>
+    <description>GoldenEye DoS attack has been detected. </description>
+    <mitre>
+      <id>T1498</id>
+    </mitre>
+  </rule>
+
+</group>
