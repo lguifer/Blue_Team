@@ -1,7 +1,7 @@
 import io
 import json, pdb, subprocess, time, os
 from datetime import datetime
-MI_IP = "192.168.43.240" #Actualizar este valor a la IP desde donde se lanza este script
+#MI_IP = "192.168.43.240" #Actualizar este valor a la IP desde donde se lanza este script
 machineList = []
 def createDir (ruta):	
 	if os.path.exists(ruta) == False:
@@ -40,7 +40,10 @@ def generateRepository():
 			print(p.communicate())
 			command = "sshpass -f password scp root@"+ip+":/var/ossec/etc/ossec.conf "+current_path+"/wazuh/"
 			p = subprocess.Popen(command, stdout=subprocess.PIPE, shell=True)
-			print(p)
+			print(p.communicate())
+			command = "sshpass -f password scp root@"+ip+":/var/ossec/etc/lists/usb-devices "+current_path+"/wazuh/"
+			p = subprocess.Popen(command, stdout=subprocess.PIPE, shell=True)
+			print(p.communicate())
 		elif name == "suricata":
 			createDir(current_path+"/"+name)
 			command = "sshpass -f password scp -r root@"+ip+":/root/Instalacion_Local/rules/ "+current_path+"/suricata/"

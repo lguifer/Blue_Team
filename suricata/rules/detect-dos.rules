@@ -1,3 +1,11 @@
-alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"LOCAL DOS SYN packet flood inbound, Potential DOS"; flow:to_server; flags: S,12; threshold: type both, track by_dst, count 5000, seconds 5; classtype:misc-activity; sid:5000;)
-alert tcp $HOME_NET any -> $HOME_NET any (msg:"LOCAL DOS SYN packet flood outbound, Potential DOS"; flow:to_server; flags: S,12; threshold: type both, track by_dst, count 5000, seconds 5; classtype:misc-activity; sid:5001;)
+alert tcp $EXTERNAL_NET any -> $HOME_NET any (msg:"Possible DoS SYN packet flood inbound, Potential DOS"; flow:to_server; flags: S,12; threshold: type both, track by_dst, count 100, seconds 1; classtype:misc-activity; sid:5000;)
+alert tcp $HOME_NET any -> $HOME_NET any (msg:"Possible attack DoS SYN packet flood outbound, Potential DOS"; flow:to_server; flags: S,12; threshold: type both, track by_dst, count 100, seconds 1; classtype:misc-activity; sid:5001;)
+alert tcp $HOME_NET any -> $HOME_NET any (msg:"SlowLoris.py DoS attempt"; \
+flow:established,to_server,no_stream; content:"X-a:"; dsize:<15; \
+    detection_filter:track by_dst, count 100, seconds 3; \
+    classtype:denial-of-service; sid:5004; rev:1; )
+alert http $HOME_NET any -> $HOME_NET any (msg:"HTTP DoS attempt"; \
+flow:established,to_server,no_stream; content:"X-a:"; dsize:<15; \
+    detection_filter:track by_dst, count 20, seconds 1; \
+    classtype:denial-of-service; sid:5005; rev:1; )
 

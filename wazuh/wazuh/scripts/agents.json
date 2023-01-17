@@ -1,0 +1,6 @@
+{"ip" : "192.168.43.240" , "SO" : "Linux", "name":"wazuh_master"}
+{"ip" : "192.168.43.241" , "SO" : "Linux", "name":"elastic"}
+{"ip" : "192.168.43.242" , "SO" : "Linux", "name":"kibana"}
+{"ip" : "192.168.43.243" , "SO" : "Windows","name":"windows_pc"}
+{"ip" : "192.168.43.244" , "SO" : "Linux", "name":"suricata"}
+{"ip" : "192.168.43.252" , "SO" : "Linux", "name":"kali"}
